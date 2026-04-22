@@ -1,4 +1,4 @@
-# Habitat_Suitability_Model
+# DeerHab: Habitat Suitability Model
 
-https://huh0001.shinyapps.io/hab_shiny_interface/
+https://hunterhhh14.shinyapps.io/hab_shiny_interface_1/
 
